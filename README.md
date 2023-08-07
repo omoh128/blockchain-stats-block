@@ -1,5 +1,3 @@
-# blockchain-stats-block
-
 # Blockchain Stats Block
 
 A custom WordPress block to display real-time blockchain statistics.
