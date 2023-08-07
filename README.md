@@ -24,10 +24,3 @@ This WordPress block allows you to display real-time blockchain statistics in yo
 2. Enter the API URL for the blockchain statistics you want to display.
 3. Save and publish your post or page to see the block in action.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/blockchain-stats-block/issues) or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
